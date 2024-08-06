@@ -1,1 +1,1 @@
-![Açıklama]([https://github.com/omerfdev/distanceAPI/blob/main/distanceAPI.png])
+![Açıklama](https://github.com/omerfdev/distanceAPI/blob/main/distanceAPI.png)
